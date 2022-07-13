@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Alexosh10
-- 👀 I’m interested in asset for games making ,creating games , gaming, photoshop and videop montageand prototyping
-- 🌱 I’m currently learning Adobe Illustrator / Unity / DaVinci Resolve /Figma
-- 💞️ I’m looking to collaborate on Games and Mobile U/I Design
+- 👀 I’m interested in asset for some intresting piece of s##t
+- 🌱 I’m currently learning Cocos2d-x/Unity/Adobe After Effect/
+- 💞️ I’m looking to collaborate on some intresting piece of s##t
 
 
 <!---

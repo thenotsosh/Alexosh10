@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Alexosh10
-- 👀 I’m interested in asset for some intresting piece of s##t
-- 🌱 I’m currently learning Cocos2d-x/Unity/Adobe After Effect/
+- 👀 I’m interested in somepiece of s##t
+- 🌱 I’m currently learning AE/Figma/Japanese
 - 💞️ I’m looking to collaborate on some intresting piece of s##t
 
 
